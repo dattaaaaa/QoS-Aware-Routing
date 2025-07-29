@@ -43,7 +43,7 @@ BDT_labEL/
 
 ## Data
 
-- **Train.csv**: The main dataset (large, ~10MB), present in several folders. It contains network measurements, device info, weather, and target QoS values.
+- **Train.csv**: The main dataset (large, ~10MB). It contains network measurements, device info, weather, and target QoS values.
 - **first60.csv**: A 60-row sample of the main dataset for quick inspection and testing.
 
 **Sample columns:**
